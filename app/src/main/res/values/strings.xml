@@ -1,11 +1,5 @@
 <resources>
     <string name="app_name">AndroidIntensiveVIEW_1</string>
-    <string name="columbia">Columbia</string>
-    <string name="switzerland">Switzerland</string>
-    <string name="denmark">Denmark</string>
-    <string name="thailand">Thailand</string>
-    <string name="madagascar">Madagascar</string>
-    <string name="italy">Italy</string>
-    <string name="poland">Poland</string>
-    <string name="austria">Austria</string>
+    <string name="random_image">Random image</string>
+    <string name="link_edit_text">Paste link to load image…</string>
 </resources>
