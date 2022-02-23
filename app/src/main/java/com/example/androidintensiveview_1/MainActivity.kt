@@ -53,6 +53,7 @@ class MainActivity : AppCompatActivity() {
             .load(editTextView.text.toString())
             .override(600, 800)
             .diskCacheStrategy(DiskCacheStrategy.NONE)
+            .skipMemoryCache(true)
             .into(imageView)
     }
 }
